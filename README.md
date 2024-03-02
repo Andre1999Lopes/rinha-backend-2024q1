@@ -7,5 +7,5 @@ Submissão feita com:
 - nginx como load balancer
 - postgres como banco de dados
 - Go para api com as libs gin-gonic e GORM
-- [Repositório da API]()
+- [Repositório da API](https://github.com/Andre1999Lopes/rinha-backend-2024q1)
 - Contato: [Twitter](https://twitter.com/AndreLp1999)
